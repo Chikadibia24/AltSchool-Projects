@@ -6,18 +6,18 @@ html {
 }
 
 body {
-  background: url(/assets/images/background-image7.jpg);
-  background-size: 1376px 768px;
+  /*background: url(/assets/images/background-image7.jpg);
+  background-size: 1376px 768px;*/
   background-color: rgb(218, 218, 222);
 }
 
 #form-div {
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.5);
   height: fit-content;
   width: fit-content;
   display: block;
   margin: auto;
-  margin-top: 35px;
+  margin-top: 30px;
   border: 1px solid #dfe8f7;
   border-radius: 5px;
   box-shadow: 3px 3px 4px -4px, -3px -3px 4px -4px;
